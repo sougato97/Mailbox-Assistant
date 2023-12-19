@@ -17,7 +17,7 @@ The Mailbox Assistant is designed to help users efficiently manage their mailbox
 
 To get started with the Mailbox Assistant, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/sougato97/mailbox-assistant.git`
+1. Clone the repository: `git clone https://github.com/sougato97/Mailbox-Assistant.git` 
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Configure the mailbox credentials in the `config.yaml` file.
 4. Run the assistant: `python read_email.py`
